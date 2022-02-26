@@ -23,4 +23,4 @@ Train: 3235
 Valid: 360
 
 
-## Follow this [link](https://github.com/cacaci89/Flower-Classify/blob/main/Flower_classify.pdf) for further information of this project.
+## Follow this [link](https://github.com/cacaci89/Flower-Classify/blob/main/final_exam.ipynb) for further information of this project.
